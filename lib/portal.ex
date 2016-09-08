@@ -17,7 +17,6 @@ defmodule Portal do
     opts = [strategy: :simple_one_for_one, name: Portal.Supervisor]
     Supervisor.start_link(children, opts)
   end
-  #test commit
 
   @doc """
   Shoots a new door with the given `color.
