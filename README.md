@@ -1,5 +1,7 @@
 # Portal
 
+Based on the [How I start](https://howistart.org/posts/elixir/1) post, this is a simple elixir practice application to learn some of the syntax and structure I've been reading about.
+
 **TODO: Add description**
 
 ## Installation
